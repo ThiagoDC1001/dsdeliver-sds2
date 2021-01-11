@@ -1,7 +1,14 @@
 {
   "cSpell.ignoreWords": [
     "expo",
+    "feedback",
     "fonts",
-    "loaded"
+    "loaded",
+    "touchable",
+    "without"
+  ],
+  "cSpell.words": [
+    "linking",
+    "props"
   ]
 }
